@@ -26,7 +26,7 @@ int funcA() {
     return 0;
 }
 
-/*int main() {
+int main() {
     try {
         funcA();
     }
